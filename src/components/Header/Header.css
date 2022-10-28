@@ -1,0 +1,25 @@
+.logo-pro {
+  width: 49px;
+  height: 35px;
+  background: url("../../logo.svg") no-repeat;
+  margin-top: -100px !important;
+  display: inline-block;
+  margin-bottom: -9px !important;
+}
+.header-custom {
+  background-color: rgb(83, 104, 104);
+  width: 100%;
+  width: 100%;
+  box-shadow: 0 4px 2px -2px gray !important;
+  position: absolute !important;
+  z-index: 30 !important;
+  top: 0px;
+  position: fixed !important;
+  left: 0 !important;
+  top: 3 !important;
+  width: 100% !important;
+  transition: top 0.5s !important;
+}
+.search-form {
+  width: 50% !important;
+}

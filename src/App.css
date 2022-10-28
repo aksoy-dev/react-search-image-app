@@ -1,0 +1,9 @@
+body {
+  background-color: hwb(60 81% 19%) !important;
+}
+.app-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px 40px;
+}
