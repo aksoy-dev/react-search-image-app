@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  <img src="https://github.com/aksoy-dev/react-search-image-app/blob/main/source/1.PNG?raw=true" width="700" />
  
- This package includes scripts and configuration used by Create React App.
+ ##  This package includes scripts and configuration used by Create React App.
  ### `npm i react-scripts`
 
 ## Available Scripts
